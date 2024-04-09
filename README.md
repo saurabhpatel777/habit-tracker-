@@ -3,7 +3,7 @@
   
   Quotes are fetched using following api: https://type.fit/api/quotes
   <br>
-  Go Live to [Habit-Tracker](https://habit-tracker-rajxode.netlify.app/)
+  Go Live to [Habit-Tracker](https://habit-tracker-94e1.onrender.com/)
 
 # Features:
   - Add Multiple habits to your habit list.
